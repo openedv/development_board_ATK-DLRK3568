@@ -1,0 +1,5 @@
+该底板PCB为ATK-DLRK3568B核心板配套的测试板，为方便企业客户使用制作自己的底板。
+正点原子团队不对这方面做相关支持。
+
+This baseboard PCB is a test board with the ATK-DLRK3568B core board. It is made to facilitate enterprise customers to create their own baseboards.
+The Point Atom team does not provide any related support in this regard.
